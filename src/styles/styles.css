@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+label {
+  display: block;
+}
+
+.lastNameLabel {
+  color: brown;
+}
