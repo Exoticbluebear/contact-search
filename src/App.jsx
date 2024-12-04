@@ -92,9 +92,7 @@ const App = () => {
   return (
     <>
       <div className="bg-blue-500 text-white p-4">
-        <h1 className="font-sans">
-          Contact Search Feature for 2Creative Solutions
-        </h1>
+        <h1 className="font-sans">Contact Search Feature by Kushan Amugoda</h1>
       </div>
 
       <div className="container mx-auto p-4">
